@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Next generation sequencing data
 - 🌱 I’m currently learning Java and Spanish
 
