@@ -28,8 +28,8 @@ I'm mostly working with R, I enjoy learning new programming skills through the d
 <table><tr><td valign="top" width="80%">
 
 - 🔭 I’m currently working at [Peyronlab](https://github.com/Payronlab) 
+- 🌱 I’m currently learning Spanish 🇪🇸
 
-- 🌱 I’m currently learning Spanish 🇪🇸  
 </td><td style="text-align: center; vertical-align: middle;" width="20%">
 
 <a href="https://github.com/Peyronlab"><img src="https://avatars0.githubusercontent.com/u/45132544?s=280&v=4" height="40"></a>
@@ -67,11 +67,11 @@ I'm mostly working with R, I enjoy learning new programming skills through the d
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=raph06&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raph06&hide_border=true&layout=compact&langs_count=10" align="left" style="width: 100%" />
 </td></tr></table>  
