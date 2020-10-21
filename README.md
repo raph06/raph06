@@ -7,8 +7,4 @@
 
 
 
-![Our last R package @Peyronlab](https://github-readme-stats.vercel.app/api/pin/?username=Peyronlab&repo=ScriptMapR)
-
-
-
 
