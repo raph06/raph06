@@ -25,10 +25,16 @@ I'm mostly working with R, I enjoy learning new programming skills through the d
 
 ## Quick facts 
 
-- 🔭 I’m currently working at [Peyronlab](https://github.com/Payronlab)  
-  
+<table><tr><td valign="top" width="80%">
+
+- 🔭 I’m currently working at [Peyronlab](https://github.com/Payronlab) 
 
 - 🌱 I’m currently learning Spanish 🇪🇸  
+</td><td style="text-align: center; vertical-align: middle;" width="20%">
+
+<a href="https://github.com/Peyronlab"><img src="https://avatars0.githubusercontent.com/u/45132544?s=280&v=4" height="40"></a>
+
+</td></tr></table>  
 
 
 <br/>  
