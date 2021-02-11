@@ -27,7 +27,7 @@ I'm mostly working with R, I enjoy learning new programming skills through the d
 
 <table><tr><td valign="top" width="80%">
 
-- 🔭 I’m currently working at [Peyronlab](https://github.com/Payronlab) 
+- 🔭 I’m currently working at [Peyronlab](https://github.com/Peyronlab) 
 - 🌱 I’m currently learning Spanish 🇪🇸
 
 </td><td style="text-align: center; vertical-align: middle;" width="20%">
